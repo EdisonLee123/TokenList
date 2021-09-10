@@ -12,19 +12,22 @@
     "uniswap",
     "default"
   ],
-  "tokens": [{
-    "chainId": 65,
-    "address": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
-    "name": "USDT",
-    "symbol": "USDT",
-    "decimals": 18,
-    "logoURI": "https://imgnew.zhichikeji.com/zcimgdir/album/file_613b04be92a5d.png"
-  },{
-    "chainId": 65,
-    "address": "0x6C32A3132E3Da5490B637F4409b5ce9edF202C2C",
-    "name": "MMC",
-    "symbol": "MMC",
-    "decimals": 18,
-    "logoURI": "https://imgnew.zhichikeji.com/zcimgdir/album/file_613b04bd9d578.png"
-  }]
-} 
+  "tokens": [
+    {
+      "chainId": 65,
+      "address": "0xe579156f9decc4134b5e3a30a24ac46bb8b01281",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://imgnew.zhichikeji.com/zcimgdir/album/file_613b04be92a5d.png"
+    },
+    {
+      "chainId": 65,
+      "address": "0x6C32A3132E3Da5490B637F4409b5ce9edF202C2C",
+      "name": "MMC",
+      "symbol": "MMC",
+      "decimals": 18,
+      "logoURI": "https://imgnew.zhichikeji.com/zcimgdir/album/file_613b04bd9d578.png"
+    }
+  ]
+}
