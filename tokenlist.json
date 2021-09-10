@@ -18,13 +18,13 @@
     "name": "USDT",
     "symbol": "USDT",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110"
+    "logoURI": "https://imgnew.zhichikeji.com/zcimgdir/album/file_613b04be92a5d.png"
   },{
     "chainId": 65,
     "address": "0x6C32A3132E3Da5490B637F4409b5ce9edF202C2C",
     "name": "MMC",
     "symbol": "MMC",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12409/thumb/amp-200x200.png?1599625397"
+    "logoURI": "https://imgnew.zhichikeji.com/zcimgdir/album/file_613b04bd9d578.png"
   }]
 } 
