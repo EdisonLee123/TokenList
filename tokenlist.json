@@ -28,6 +28,14 @@
       "symbol": "MMC",
       "decimals": 18,
       "logoURI": "https://imgnew.zhichikeji.com/zcimgdir/album/file_613b04bd9d578.png"
+    },
+    {
+      "chainId": 65,
+      "address": "0x7697bE23cB20F6C985c01aF8767b6F722eC2beA6",
+      "name": "NFT",
+      "symbol": "NFT",
+      "decimals": 18,
+      "logoURI": "https://imgnew.zhichikeji.com/zcimgdir/album/file_61409dde24f7b.jpg"
     }
   ]
 }
