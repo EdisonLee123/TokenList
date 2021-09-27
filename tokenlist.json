@@ -14,16 +14,16 @@
   ],
   "tokens": [
     {
-      "chainId": 97,
-      "address": "0xC95f3E1B96D36fFb102657f135ab7C8E1145A5d3",
+      "chainId": 65,
+      "address": "0xfDDeC824dDea2f6B4B6E6EE602E88fc3bb0d2317",
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://imgnew.zhichikeji.com/zcimgdir/album/file_613b04be92a5d.png"
     },
     {
-      "chainId": 97,
-      "address": "0xA263e311327c2F01434CACc181C075079b8d9667",
+      "chainId": 65,
+      "address": "0x1738F6b150648e9F1aDa9C7F2EA04757A8BC227f",
       "name": "MMC",
       "symbol": "MMC",
       "decimals": 18,
