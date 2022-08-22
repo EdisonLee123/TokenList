@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "5825CZ232T.com.Develpment.Deme",
+                "paths": [ "*","/app/*" ]
+            }
+        ]
+    }
+}
